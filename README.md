@@ -6,7 +6,7 @@ This is more text in the KMM branch to start local first
 
 Say `Hi Kevin` next to your initials:
 
-DT: 
+DT: hi kevin
 
 KL:
 
@@ -14,7 +14,7 @@ YZ:
 
 YA:
 
-Z(T)Z:
+Z(T)Z: Hiiii Kevin
 
 CD: Hi Kevin!!!
 
