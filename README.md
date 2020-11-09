@@ -8,7 +8,7 @@ Say `Hi Kevin` next to your initials:
 
 DT: hi kevin
 
-KL: Hi Kevin
+KL: this is Khristion
 
 YZ: Hi Kevin
 
